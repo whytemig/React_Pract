@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Doing something",
+      "day": "Dec 18th at 8:30am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Doing something again",
+      "day": "May 15th at 3:30am",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Dish Washing",
+      "day": "Dec 8th at 7:00pm",
+      "reminder": true
+    },
+    {
+      "text": "Sunday Car Wash ",
+      "day": "Aug 1st 12:00pm",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
